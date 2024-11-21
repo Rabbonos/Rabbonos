@@ -6,7 +6,7 @@
 ---
 
 ### 🧑‍💻 About Me
-I’m an aspiring data science and machine learning specialist with a passion for applying my skills in real-world projects. Actively focused on developing practical expertise, I’m eager to collaborate and committed to achieving results that matter. My work approach centers around efficiency, quality, and continuous learning.
+I’m a chemical engineer integrating data science and machine learning into my professional skill set to tackle complex engineering challenges. Passionate about applying analytics and automation to real-world problems, I focus on developing practical solutions that drive efficiency and innovation. My work approach is rooted in precision, adaptability, and a commitment to continuous growth.
 
 ---
 
