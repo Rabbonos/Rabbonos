@@ -6,7 +6,7 @@
 ---
 
 ### 🧑‍💻 About Me
-I’m a chemical engineer integrating data science and machine learning into my professional skill set to tackle complex engineering challenges. Passionate about applying analytics and automation to real-world problems, I focus on developing practical solutions that drive efficiency and innovation. My work approach is rooted in precision, adaptability, and a commitment to continuous growth.
+I’m a professional human.
 
 ---
 
