@@ -1,8 +1,5 @@
 # 👋 Hi there! I'm Ali Isayev
 
-🔹 **Specialization**: Data Science & Machine Learning  
-🔹 **Background**: A dedicated student continuously expanding expertise in the IT field and applied data science.
-
 ---
 
 ### 🧑‍💻 About Me
