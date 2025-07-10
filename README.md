@@ -10,7 +10,7 @@ I’m a professional human.
 ### 💼 Tech Stack
 
 #### **Languages**
-- **Python** (advanced), **SQL/HTML/CSS** (intermediate), **C/JS** (basic)
+- **Python** (advanced), **JS/HTML/CSS/SQL** (intermediate), **C** (basic)
 
 #### **Libraries and Frameworks**
 - **Web**: FastAPI, Flask, asyncpg
