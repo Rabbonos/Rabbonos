@@ -1,49 +1,36 @@
-# 👋 Hi there! I'm Ali Isayev
+# 👋 Hi**
 
 ---
 
-### 🧑‍💻 About Me
-I’m a professional human.
+### 🧠 Machine Learning Engineer | MLOps | Backend Developer
+
+I design, deploy, and maintain **production-grade ML systems** — from deep learning models to scalable backend APIs.  
+My focus is building practical, efficient solutions that connect **machine learning research** with **real-world deployment**.
 
 ---
 
-### 💼 Tech Stack
+### ⚙️ **Technical*
 
 #### **Languages**
-- **Python** (advanced), **JS/HTML/CSS/SQL** (intermediate), **C** (basic)
+- **Python** (main)
+- **SQL**, **JavaScript**, **HTML/CSS** (hobby)
+- **C** (basic)
 
-#### **Libraries and Frameworks**
-- **Web**: FastAPI, Flask, asyncpg
-- **Data Science & Machine Learning**: Pandas, NumPy, Scikit-Learn, PyTorch, Transformers, XGBoost
-- **Visualization**: Matplotlib
-- **Concurrency**: Threading, Multiprocessing
+#### **Frameworks & Libraries**
+- **Backend**: FastAPI/Django  
+- **Machine Learning**: PyTorch, Scikit-Learn, Transformers, XGBoost, LightGBM  
+- **Data & Visualization**: Pandas, NumPy, Matplotlib  
+- **Concurrency**: Threading, Multiprocessing, asyncio
 
 #### **Databases**
-- PostgreSQL, ChromaDB, MongoDB
+- PostgreSQL (pgvector), ChromaDB, MongoDB
 
-#### **DevOps & Tools**
-- Docker, Google Cloud, Runpod, AWS (basic), Git, Yandex Cloud
+#### **DevOps & Cloud**
+- Docker, Kubernetes, Nginx  
+- Google Cloud, AWS, Runpod  
+- Git, CI/CD pipelines
 
----
-
-### 📁 Portfolio Highlights
-
-- **Text Classification for Client**: Developed and deployed a text classification model using Transformers, PyTorch, and Scikit-Learn. Hosted with Flask on Runpod for client access.
-  
-- **RAG System with FastAPI & Nginx on Yandex Cloud**: Built and deployed a Retrieval-Augmented Generation (RAG) system on Yandex Cloud. Leveraged pgvector for enhanced vector-based search, with FastAPI server setup and Nginx for request handling and system resilience.
-
-- **Deep Q-Learning for Snake Game**: Implemented a Deep Q-Learning algorithm to power a custom “Snake” game using JavaScript, CSS, HTML, and PyTorch.
-
-- **Telegram Bot with Payment System & SSL**: Created and deployed a secure Telegram bot with integrated payment options. Configured Nginx for HTTPS routing using SSL certificates, enabling secure transactions and real-time client interactions.
-
-- **Speech Analysis Pipeline**: Developed an audio analysis pipeline to segment audio, vectorize segments, and match them to sample voices. Outputs include timestamps, names, and spoken text, with an option for additional training on new voice samples.
+### 🌐 **Connect**
+- **Email**: ali.isayev008gemini@gmail.com
 
 ---
-
-### 📫 Connect with Me
-
-- **Website**: [Ali Isayev](http://www.aliisayev.software/)
-
----
-
-Let’s connect and create something impactful! 🚀
