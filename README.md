@@ -9,7 +9,7 @@ My focus is building practical, efficient solutions that connect **machine learn
 
 ---
 
-### ⚙️ **Technical*
+### ⚙️ **Technical**
 
 #### **Languages**
 - **Python** (main)
